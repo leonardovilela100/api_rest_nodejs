@@ -8,19 +8,12 @@
 - Banco de dados MySQL
 
 # Modelo MVC
--Controllers
--Middlewares
--Models
--Routes
--Database
--cConfig
+- Controllers
+- Middlewares
+- Models
+- Routes
+- Database
+- Config
 
 # Video do teste
-
-- 
-
-<video src=["arquivovideo.ogg"](https://drive.google.com/file/d/1LTd-9KioExQ_5-O_mFBCbL1Hqlrm-kNt/view?usp=sharing) autoplay poster="imagemprevia.jpg">
-  Desculpa, o seu navegador não suporta vídeos incorporados,
-  mas você pode <a href="videofile.ogg">baixá-lo</a>
-  e assistir pelo seu reprodutor de mídia favorito!
-</video>
+- https://drive.google.com/file/d/1LTd-9KioExQ_5-O_mFBCbL1Hqlrm-kNt/view?usp=sharing
