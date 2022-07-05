@@ -7,7 +7,7 @@
 - Sequelize para relacionamento e migraçoes de tabelas do banco de dados.
 - Banco de dados MySQL
 
-#Modelo MVC
+# Modelo MVC
 -Controllers
 -Middlewares
 -Models
