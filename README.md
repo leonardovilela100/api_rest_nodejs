@@ -5,3 +5,13 @@
 - Nodemon para atualizar o servidor durante o desenvolvimento.
 - Eslint para seguir padroes de programaçao.
 - Sequelize para relacionamento e migraçoes de tabelas do banco de dados.
+- Banco de dados MySQL
+
+#Modelo MVC
+-Controllers
+-Middlewares
+-Models
+-Routes
+-Database
+-cConfig
+
